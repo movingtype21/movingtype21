@@ -1,16 +1,19 @@
-## Hi there 👋
+# movingtype21
 
-<!--
-**movingtype21/movingtype21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 학력
+- 서울과학기술대학교 전기정보공학과(2013.03-2020.02)
 
-Here are some ideas to get you started:
+## 대외활동
+- 부스트캠프 AI Tech(2023.11-2024.04)
+- 42Seoul(2022.01-2023.11)
+- 인공지능사관학교(2020.05-2020.11)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 어학
+- TOEIC: 730(2026)
+- TOEIC Speaking: IH(2024)
+
+## 자격증
+- 정보처리기사(2024)
+- 빅데이터분석기사(2024)
+- 리눅스마스터2급(2025)
+- 네트워크관리사2급(2025)
